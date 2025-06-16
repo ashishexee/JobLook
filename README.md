@@ -17,7 +17,50 @@ JobLook is a comprehensive mobile job search application built using **Flutter**
 * 📱 **Responsive UI**: Clean, modern design optimized for all screen sizes
 ---
 ## 📸 Screenshots
-<div style="display: flex; flex-wrap: wrap; justify-content: space-between;"> <div style="width: 30%; margin-bottom: 10px;"> <!-- Screenshot 1: Login Screen --> <img src="assets/screenshots/landingpage1.jpg" alt="Login Screen" style="width: 100%; border-radius: 8px;"/> <p align="center">Login Screen</p> </div> <div style="width: 30%; margin-bottom: 10px;"> <!-- Screenshot 2: Home Screen --> <img src="assets/screenshots/landingpage2.jpg" alt="Home Screen" style="width: 100%; border-radius: 8px;"/> <p align="center">Home Screen</p> </div> <div style="width: 30%; margin-bottom: 10px;"> <!-- Screenshot 3: Job Details --> <img src="assets/screenshots/landingpage3.jpg" alt="Job Details" style="width: 100%; border-radius: 8px;"/> <p align="center">Job Details</p> </div> <div style="width: 30%; margin-bottom: 10px;"> <!-- Screenshot 4: Profile Screen --> <img src="assets/screenshots/registerpage.jpg" alt="Profile Screen" style="width: 100%; border-radius: 8px;"/> <p align="center">Profile Screen</p> </div> <div style="width: 30%; margin-bottom: 10px;"> <!-- Screenshot 5: Bookmarks Screen --> <img src="assets/screenshots/loginpage.jpg" alt="Bookmarks Screen" style="width: 100%; border-radius: 8px;"/> <p align="center">Bookmarks Screen</p> </div> <div style="width: 30%; margin-bottom: 10px;"> <!-- Screenshot 6: Search Results --> <img src="assets/screenshots/homepage.jpg" alt="Search Results" style="width: 100%; border-radius: 8px;"/> <p align="center">Search Results</p> </div> <div style="width: 30%; margin-bottom: 10px;"> <!-- Screenshot 7: Upload Job Screen --> <img src="assets/screenshots/drawer.jpg" alt="Upload Job Screen" style="width: 100%; border-radius: 8px;"/> <p align="center">Upload Job Screen</p> </div> <div style="width: 30%; margin-bottom: 10px;"> <!-- Screenshot 8: Skills Management --> <img src="assets/screenshots/profilepage.jpg" alt="Skills Management" style="width: 100%; border-radius: 8px;"/> <p align="center">Skills Management</p> </div> <div style="width: 30%; margin-bottom: 10px;"> <!-- Screenshot 9: Onboarding Screen --> <img src="assets/screenshots/searchjobspage.jpg" alt="Onboarding Screen" style="width: 100%; border-radius: 8px;"/> <p align="center">Onboarding Screen</p> </div> </div>
+<table>
+    <tr>
+        <td align="center">
+            <img src="assets/screenshots/landingpage1.jpg" alt="Login Screen" width="100%" style="border-radius: 8px;"/><br>
+            <em>Login Screen</em>
+        </td>
+        <td align="center">
+            <img src="assets/screenshots/landingpage2.jpg" alt="Home Screen" width="100%" style="border-radius: 8px;"/><br>
+            <em>Home Screen</em>
+        </td>
+        <td align="center">
+            <img src="assets/screenshots/landingpage3.jpg" alt="Job Details" width="100%" style="border-radius: 8px;"/><br>
+            <em>Job Details</em>
+        </td>
+    </tr>
+    <tr>
+        <td align="center">
+            <img src="assets/screenshots/registerpage.jpg" alt="Profile Screen" width="100%" style="border-radius: 8px;"/><br>
+            <em>Profile Screen</em>
+        </td>
+        <td align="center">
+            <img src="assets/screenshots/loginpage.jpg" alt="Bookmarks Screen" width="100%" style="border-radius: 8px;"/><br>
+            <em>Bookmarks Screen</em>
+        </td>
+        <td align="center">
+            <img src="assets/screenshots/homepage.jpg" alt="Search Results" width="100%" style="border-radius: 8px;"/><br>
+            <em>Search Results</em>
+        </td>
+    </tr>
+    <tr>
+        <td align="center">
+            <img src="assets/screenshots/drawer.jpg" alt="Upload Job Screen" width="100%" style="border-radius: 8px;"/><br>
+            <em>Upload Job Screen</em>
+        </td>
+        <td align="center">
+            <img src="assets/screenshots/profilepage.jpg" alt="Skills Management" width="100%" style="border-radius: 8px;"/><br>
+            <em>Skills Management</em>
+        </td>
+        <td align="center">
+            <img src="assets/screenshots/searchjobspage.jpg" alt="Onboarding Screen" width="100%" style="border-radius: 8px;"/><br>
+            <em>Onboarding Screen</em>
+        </td>
+    </tr>
+</table>
 ---
 
 ## 🧰 Tech Stack
