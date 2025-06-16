@@ -68,8 +68,15 @@ JobLook is a comprehensive mobile job search application built using **Flutter**
         </td>
     </tr>
 </table>
----
 
+---
+## ⚠️ Known Issues & Pending Features
+<div align="center">
+    <img src="assets/screenshots/issues.svg" alt="pending issues/features, future updates" width="100%">
+    <p><em>JobLook Application Architecture</em></p>
+</div>
+
+---
 ## 🧰 Tech Stack
 
 | Layer          | Technology                 |
@@ -188,6 +195,10 @@ Contributions are welcome and appreciated!
 This project is licensed under the **MIT License** – see the [LICENSE](LICENSE) file for details.
 
 ---
+## 📧 Contact
+Your Name - @ashishexee - ashish@me.iitr.ac.in
+
+Project Link: https://github.com/ashishexee/JobLook
 
 ## 💙 Made with Love
 
