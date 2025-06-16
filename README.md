@@ -16,47 +16,54 @@ JobLook is a comprehensive mobile job search application built using **Flutter**
 * 👨‍💼 **Profile Management**: Update your personal info and professional skills
 * 📱 **Responsive UI**: Clean, modern design optimized for all screen sizes
 ---
+## 🏗️ Architecture Diagram
+<div align="center">
+    <img src="assets/screenshots/architecture.svg" alt="JobLook Architecture Diagram" width="100%">
+    <p><em>JobLook Application Architecture</em></p>
+</div>
+
+---
 ## 📸 Screenshots
 <table>
     <tr>
         <td align="center">
-            <img src="assets/screenshots/landingpage1.jpg" alt="Login Screen" width="100%" style="border-radius: 8px;"/><br>
+            <img src="assets/screenshots/landingpage1.jpg" alt="First Landing Page Screen" width="100%" style="border-radius: 8px;"/><br>
             <em>Login Screen</em>
         </td>
         <td align="center">
-            <img src="assets/screenshots/landingpage2.jpg" alt="Home Screen" width="100%" style="border-radius: 8px;"/><br>
+            <img src="assets/screenshots/landingpage2.jpg" alt="Second Landing Page" width="100%" style="border-radius: 8px;"/><br>
             <em>Home Screen</em>
         </td>
         <td align="center">
-            <img src="assets/screenshots/landingpage3.jpg" alt="Job Details" width="100%" style="border-radius: 8px;"/><br>
+            <img src="assets/screenshots/landingpage3.jpg" alt="Third Landing Page" width="100%" style="border-radius: 8px;"/><br>
             <em>Job Details</em>
         </td>
     </tr>
     <tr>
         <td align="center">
-            <img src="assets/screenshots/registerpage.jpg" alt="Profile Screen" width="100%" style="border-radius: 8px;"/><br>
+            <img src="assets/screenshots/registerpage.jpg" alt="Register Screen" width="100%" style="border-radius: 8px;"/><br>
             <em>Profile Screen</em>
         </td>
         <td align="center">
-            <img src="assets/screenshots/loginpage.jpg" alt="Bookmarks Screen" width="100%" style="border-radius: 8px;"/><br>
+            <img src="assets/screenshots/loginpage.jpg" alt="Login Screen" width="100%" style="border-radius: 8px;"/><br>
             <em>Bookmarks Screen</em>
         </td>
         <td align="center">
-            <img src="assets/screenshots/homepage.jpg" alt="Search Results" width="100%" style="border-radius: 8px;"/><br>
+            <img src="assets/screenshots/homepage.jpg" alt="Home Page" width="100%" style="border-radius: 8px;"/><br>
             <em>Search Results</em>
         </td>
     </tr>
     <tr>
         <td align="center">
-            <img src="assets/screenshots/drawer.jpg" alt="Upload Job Screen" width="100%" style="border-radius: 8px;"/><br>
+            <img src="assets/screenshots/drawer.jpg" alt="App Drawer" width="100%" style="border-radius: 8px;"/><br>
             <em>Upload Job Screen</em>
         </td>
         <td align="center">
-            <img src="assets/screenshots/profilepage.jpg" alt="Skills Management" width="100%" style="border-radius: 8px;"/><br>
+            <img src="assets/screenshots/profilepage.jpg" alt="Profile Screen" width="100%" style="border-radius: 8px;"/><br>
             <em>Skills Management</em>
         </td>
         <td align="center">
-            <img src="assets/screenshots/searchjobspage.jpg" alt="Onboarding Screen" width="100%" style="border-radius: 8px;"/><br>
+            <img src="assets/screenshots/searchjobspage.jpg" alt="Search Jobs Page" width="100%" style="border-radius: 8px;"/><br>
             <em>Onboarding Screen</em>
         </td>
     </tr>
